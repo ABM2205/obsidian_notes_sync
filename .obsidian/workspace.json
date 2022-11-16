@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65d8eaec5c0ca9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ssh_keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testjgj.md",
+                "file": "ssh_keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testjgj.md",
+                "file": "ssh_keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testjgj.md"
+                "file": "ssh_keys.md"
               }
             }
           }
@@ -161,10 +173,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a44a5942b876ee72",
+  "active": "65d8eaec5c0ca9f7",
   "lastOpenFiles": [
-    "test.md",
     "testjgj.md",
+    "test.md",
     "hello world.md"
   ]
 }
