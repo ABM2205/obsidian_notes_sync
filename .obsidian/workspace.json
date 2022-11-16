@@ -154,14 +154,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8cfd2be7b5eb6986",
+  "active": "a44a5942b876ee72",
   "lastOpenFiles": [
     "test.md",
     "testjgj.md",
